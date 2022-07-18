@@ -1,4 +1,4 @@
-/dist/
-/build/
-/easy-wash-server-geocalc-0.5.7.iml
 /target/
+/nbproject/private/
+nbactions.xml
+nb-configuration.xml
