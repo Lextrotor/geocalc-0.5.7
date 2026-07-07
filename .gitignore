@@ -1,3 +1,5 @@
 /target/
 /nbproject/private/
 nbactions.xml
+*.ipr
+.junie/
